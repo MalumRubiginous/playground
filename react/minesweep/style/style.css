@@ -1,0 +1,17 @@
+body {
+	padding: 20px;
+}
+td {
+	border: 2px solid white;
+	padding: 9px 15px;
+	font-family: Consolas;
+	background:#222;
+	transition: background-color 0.4s ease;
+}
+td:hover {
+	background-color:#888!important;
+	cursor: pointer;
+}
+.fin {
+	color:#33ADFF;
+}
